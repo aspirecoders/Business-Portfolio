@@ -42,3 +42,12 @@ This application was created for purpose to improve the marketing of your or you
 <li>Your URL website is link to redirect to your website after the installer is done</li>
 <li>Done</li>
 </ul>
+
+<h4>More Info: </h4><a href="https://aspirecoders.com/projects/business-portfolio" target="_blank" title="More Info">Available here</a>
+<h4>Demo URL: </h4><a href="https://work.aspirecoders.com/company" target="_blank" title="Demo URL">Available here</a>
+<h4>Admin URL: </h4><a href="https://work.aspirecoders.com/company/admin" target="_blank" title="Admin Panel">Available here</a>
+
+<h2>Support</h2>
+Please feel free to send me an email if you have any problems.<br/>
+visit https://aspirecoders.com or email us at : contact@aspirecoders.com
+
