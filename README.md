@@ -6,9 +6,7 @@ This application was created for purpose to improve the marketing of your or you
 
 # Features
 Included all pages needed for business website and can be managed from admin panel
-
 Image Sliders on Home Page and Action Boxes on Banners
-
 Responsive and Mobile Friendly Design, SEO optimized
 
 Connect and Chat on WhatsApp or Skype
