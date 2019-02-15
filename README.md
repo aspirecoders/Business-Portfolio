@@ -37,6 +37,7 @@ This application was created for purpose to improve the marketing of your or you
 <h2>Installation</h2>
 <ul>
 <li>Clone or download an upload on server</li>
+<li> Open http://(Your Link)/install</li>
 <li>Fill the form ,Hostname, Username, URL, etc</li>
 <li>Your URL website is link to redirect to your website after the installer is done</li>
 <li>Done</li>
