@@ -4,3 +4,31 @@ This application was created for purpose to improve the marketing of your or you
 
 <strong>Technologies Used:</strong> HTML, CSS, Bootstrap, Javascript, jQuery, PHP, MySQL, CodeIgniter
 
+# Features
+Included all pages needed for business website and can be managed from admin panel
+Image Sliders on Home Page and Action Boxes on Banners
+Responsive and Mobile Friendly Design, SEO optimized
+Connect and Chat on WhatsApp or Skype
+Google listed Business
+Contact with Google map
+Social Profiles & ShareThis Sharing
+Google analystics integrated
+Working Contact and Career Forms with Google Recaptcha secures
+Direct email and call from the app
+Simple but Powerful admin panel
+Secured Login & Password Reset System
+Users Management,Roles & Permissions Management
+Mailbox included
+Sending mails using PHPMailer with Google OAuth2 Authentication
+User Activity Logs
+Database Backup and Restore
+AdminLTE Integrated & Supports all its components
+Built with Codeignier 3 (Latest)
+<strong>Google analystics reporting</strong>
+New Visitors and Returning Visitor Based on Week / Month / Year
+Users / Bounce Rate / Session Duration
+New Users by Location
+Live Active Users via Real-time API V4
+Top Active Pages,Sessions by Device Type
+Custom Charts
+
