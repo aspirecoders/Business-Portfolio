@@ -4,54 +4,32 @@ This application was created for purpose to improve the marketing of your or you
 
 <strong>Technologies Used:</strong> HTML, CSS, Bootstrap, Javascript, jQuery, PHP, MySQL, CodeIgniter
 
-# Features
-*Included all pages needed for business website and can be managed from admin panel
-*Image Sliders on Home Page and Action Boxes on Banners
-Responsive and Mobile Friendly Design, SEO optimized
-
-Connect and Chat on WhatsApp or Skype
-
-Google listed Business
-
-Contact with Google map
-
-Social Profiles & ShareThis Sharing
-
-Google analystics integrated
-
-Working Contact and Career Forms with Google Recaptcha secures
-
-Direct email and call from the app
-
-Simple but Powerful admin panel
-
-Secured Login & Password Reset System
-
-Users Management,Roles & Permissions Management
-
-Mailbox included
-
-Sending mails using PHPMailer with Google OAuth2 Authentication
-
-User Activity Logs
-
-Database Backup and Restore
-
-AdminLTE Integrated & Supports all its components
-
-Built with Codeignier 3 (Latest)
-
-<strong>Google analystics reporting</strong>
-
-New Visitors and Returning Visitor Based on Week / Month / Year
-
-Users / Bounce Rate / Session Duration
-
-New Users by Location
-
-Live Active Users via Real-time API V4
-
-Top Active Pages,Sessions by Device Type
-
-Custom Charts
-
+<h2>Features</h2>
+<ul>
+<li>Included all pages needed for business website and can be managed from admin panel</li>
+<li>Image Sliders on Home Page and Action Boxes on Banners</li>
+<li>Responsive and Mobile Friendly Design, SEO optimized</li>
+<li>Connect and Chat on WhatsApp or Skype</li>
+<li>Google listed Business</li>
+<li>Contact with Google map</li>
+<li>Social Profiles & ShareThis Sharing</li>
+<li>Google analystics integrated</li>
+<li>Working Contact and Career Forms with Google Recaptcha secures</li>
+<li>Direct email and call from the app</li>
+<li>Simple but Powerful admin panel</li>
+<li>Secured Login & Password Reset System</li>
+<li>Users Management,Roles & Permissions Management</li>
+<li>Mailbox(Inbox/Outbox/Read/Compose) included</li>
+<li>Sending mails using PHPMailer with Google OAuth2 Authentication</li>
+<li>User Activity Logs</li>
+<li>Database Backup and Restore</li>
+<li>AdminLTE Integrated & Supports all its components</li>
+<li>Built with Codeignier 3 (Latest)</li>
+<li><strong>Google analystics reporting</strong></li>
+<li>New Visitors and Returning Visitor Based on Week / Month / Year</li>
+<li>Users / Bounce Rate / Session Duration</li>
+<li>New Users by Location</li>
+<li>Live Active Users via Real-time API V4</li>
+<li>Top Active Pages,Sessions by Device Type</li>
+<li>Custom Charts</li>
+</ul>
